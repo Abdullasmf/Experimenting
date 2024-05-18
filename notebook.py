@@ -18,7 +18,7 @@ import numpy as np # type: ignore
 
 
 A=np.array([1,2,3])
-B='hiii'
+B='hiiii'
 
 
 # In[5]:
